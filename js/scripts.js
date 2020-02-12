@@ -212,7 +212,7 @@ const SERVICE = `https://cors-anywhere.herokuapp.com/${formspree}`;
 
 })(jQuery);
 
-
+   /* Forms Handling */
 let form = {
     formId: document.getElementById("contact-form"),
     action: "https://formspree.io/mleeorqk",
